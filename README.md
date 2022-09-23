@@ -99,8 +99,9 @@ A CNN architecture that employs multi-task learning to detect the presence of a 
 |--|--|--|--|
 <img title="HTML" alt="HTML" width="40px" src="https://user-images.githubusercontent.com/56112545/190888788-94bc61e2-fe09-42b2-a2c9-c64ccb863167.png" />|<img alt="Java" title="Java" width="40px" src="https://user-images.githubusercontent.com/56112545/190889347-932b1d73-9117-4533-9a8d-f5bc83fe760f.png">|<img title="PHP" alt="PHP" width="40px" src="https://user-images.githubusercontent.com/56112545/190889405-d2a83d7e-eded-4e98-9bbb-82d627b7f539.png">|<img title="MySQL" alt="MySQL" width="40px" src="https://user-images.githubusercontent.com/56112545/190889369-3979687f-2c17-4754-9987-c3940f99b621.png">
 
-![JavaScript frameworks](https://user-images.githubusercontent.com/99743760/191960273-0efa8192-f0e3-4ede-a30b-7c78ceed84b5.gif)
-
+<p>
+  <a href="https://github.com/parthkvv/Face-Mask-Detection"><img width="300" height="160" align='right' src="https://user-images.githubusercontent.com/99743760/191960273-0efa8192-f0e3-4ede-a30b-7c78ceed84b5.gif"></a>
+</p>
 
 **Libraries and Frameworks**
 
